@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434662813118",
+    "project_id": "mychat-821a7",
+    "storage_bucket": "mychat-821a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434662813118:android:9d76c94aeea441ed2b1def",
+        "android_client_info": {
+          "package_name": "com.geniusapk.mychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1hUBMhvuJ9Uv7WBpVEDms1KOpnvF5G6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
